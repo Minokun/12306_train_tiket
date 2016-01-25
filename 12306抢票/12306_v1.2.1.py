@@ -1,6 +1,7 @@
 #coding:utf-8
 #作者：武晓坤
 #时间:2016-01-22
+#此版本为电脑上使用初版
 import urllib2
 import urllib
 import ssl
