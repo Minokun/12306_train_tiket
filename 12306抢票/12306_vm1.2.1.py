@@ -1,6 +1,7 @@
 #coding:utf-8
 #作者：武晓坤
 #时间:2016-01-22
+#简介：此版本增加了支持输入中文城市
 import urllib2
 import urllib
 import ssl
