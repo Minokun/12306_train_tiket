@@ -1,6 +1,7 @@
 #coding:utf-8
 #作者：武晓坤
 #时间:2016-01-22
+#简介：此版本为手机上使用初版，需输入火车站编号
 import urllib2
 import urllib
 import ssl
